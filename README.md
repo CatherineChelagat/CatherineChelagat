@@ -41,3 +41,26 @@
  
 
 ###
+<br/>
+
+<p>
+
+## 📝 Projects Worked On
+### [ A Predicitive Time Series Model to Forecast Stock Prices: ]([https://github.com/CatherineChelagat/Predictive-Time-Series-Model-Case-Study-NSE-Kenya-20-Share-Index])<br>
+Machine learning prediction model using Time Series Models to predict the expected changes in stock prices in the Nairobi Stock Exchange Market. Data collected from the Kenya NSE 20 and CBK websites.<br>
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy, Arima, Prophet, Pickle
+
+### [ A Classification Model to Predict How Likely Individuals are to Receive the N1H1 Vaccine : ]([https://github.com/CatherineChelagat/Predicting-how-likely-individuals-are-to-receive-H1N1-vaccines])<br>
+A classification model that utilizes machine learning to accurately predict the response of individuals to the H1N1 vaccine. Data was obtained from the DrivenData website.<br>
+Libraries Utilized: Scikit-Learn, Pandas, Statsmodel, Numpy, Matplotlib, Seaborn, Scipy, Arima, Prophet, Pickle
+
+### [ A Multiple Linear Regression Model for Predicting Insurance Premiums: ]([https://github.com/ngili/A-Multiple-Linear-Regression-Model-for-Predicting-Insurance-Premiums])<br>
+Building a multiple linear progression model to predict insurance premiums that can be used by insurance companies to manage risk and ensure financial stability. Data collected from Kaggle.<br>
+Libraries Utilized: Sklearn, Pandas, Numpy, Matplotlib, Seaborn
+
+</p>
+
+
+<h3> 🤝🏻 &nbsp;Connect with Me </h3> 
+
+
